@@ -1,0 +1,10 @@
+1.Arrange the  given list in decending order.
+[100, 200, 300, 400, 500]
+
+2.Concatenate two lists index-wise.
+
+3.Given a Python list. Turn every item of a list into its square
+aList = [1, 2, 3, 4, 5, 6, 7]
+
+4.Given a Python list, find value 20 in the list, and if it is present, replace it with 200. Only update the first occurrence of a value
+list1 = [5, 10, 15, 20, 25, 50, 20] 

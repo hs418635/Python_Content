@@ -1,0 +1,57 @@
+
+Python Data Analysis - Question Paper
+
+Time: 1 Hour 15 Minutes
+
+Instructions:
+1. Answer all questions.
+2. All practical questions must include code and output.
+
+---
+
+Section A: Theory Questions
+
+NumPy
+1. Explain the differences between a Python list and a NumPy array.
+2. Describe how broadcasting works in NumPy. Provide an example.
+
+Pandas
+3. What is a DataFrame in Pandas? How does it differ from a NumPy array?
+4. Explain the role of indexing in Pandas. Discuss different types of indexing supported by Pandas.
+
+Matplotlib
+5. What is the role of plt.show() in Matplotlib? Why is it necessary?
+6. Explain the concept of subplots in Matplotlib. How can you create multiple plots in a single figure?
+
+Seaborn
+7. What are the advantages of using Seaborn over Matplotlib?
+8. Explain the importance of color palettes in Seaborn and how they can be customized.
+
+---
+
+Section B: Practical Questions
+
+NumPy
+9. Create a 3x3 matrix with values ranging from 1 to 9 using NumPy.
+10. Given a NumPy array, [1, 2, 3, 4, 5], calculate the mean, standard deviation, and variance.
+11. Generate a random 5x5 matrix and replace all values greater than 0.5 with 1, and the rest with 0.
+12. Create a function that computes the inverse of a matrix using NumPy without using the built-in numpy.linalg.inv() function.
+
+Pandas
+13. Create a DataFrame from a dictionary containing lists and display the first 5 rows.
+14. Filter a DataFrame to select rows where a specific column value is greater than a threshold.
+15. Group the data by a column and calculate the mean for each group. Provide the code and output.
+
+Matplotlib
+16. Plot a line graph for x = [1, 2, 3, 4] and y = [10, 20, 25, 30]. Label the axes and add a title.
+17. Create a bar chart using Matplotlib to compare the sales of three products across four quarters. Label the bars and add a legend.
+
+Seaborn
+18. Create a scatter plot using Seaborn with tips dataset where total_bill is on the x-axis and tip is on the y-axis. Color the points based on the time of day (Lunch/Dinner).
+19. Create a heatmap using Seaborn to display the correlation matrix of the iris dataset.
+
+---
+
+End of the Paper
+
+Good luck!

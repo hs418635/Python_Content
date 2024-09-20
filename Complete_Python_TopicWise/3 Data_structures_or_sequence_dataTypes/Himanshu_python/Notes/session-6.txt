@@ -1,0 +1,102 @@
+lec--6th
+Data sturcture:
+str--represent
+s="welcome"
+type(s)
+inbuilt function used in string
+captalize()--1st letter capital
+center(width,char)--in center
+count()
+encode(format)--another
+decode(format)--oroginal
+startswith(suffix)
+endswith(suffix)
+index()
+isalnum() alpha+numeric ex---> himani123
+isaplha() only alphabetical
+isdigit() only numbers
+islower() small letter
+isupper() capital letters
+isnumeric() numbers
+isspace()
+len()
+lower()
+upper()
+max()
+min()
+swapcase()
+title()
+isdecimal()
+
+List--which can store multiple items
+l=[]
+variable name=list()
+properities of list:
+ordered
+indexed--list[0]--
+positive index--strats from left
+negative index--strats from right
+
+mutable--changable list.append(89)
+duplication
+
+empty list--> l=[]
+type(l)
+list with items-->[1,2,3]
+
+#slicing--particular value
+lis=[1,2,3,60,4,5,6,100,67,7,89]
+lis[:]#all elements
+lis[2:]#it will print at 3 and after 3rd index
+lis[:3]#it will print before 3rd index
+lis[2:6]
+
+
+#functions
+type()
+len()
+append()
+extend()--
+index() ---
+count()
+pop()--it will remove last value by default
+remove(value)
+reverse()
+del()
+copy()
+clear()
+insert()
+nested list
+m=[1,2,3,[12,99,90]]
+____________________________________________________________________________________________
+tuples-collections--()
+tuple()
+ordered
+indexed--access
+fixed--change--add not
+immutable--not changeble
+ex--t= (1,2,3,4)
+type()
+count()
+len()
+t=()
+print(type(t))
+t1=tuple()
+print(type(t1))
+t2=(1,2,3,4,5,6,7,8,9,10)
+print(t2)
+t3=("Arun",24,"Banglore")
+print(t3)
+print("Name",t3[0])
+print("Age",t3[1])
+print("Adress",t3[2])
+
+
+t3=("Arun",24,"Banglore",("ayan","priyanka","subhan"))
+
+
+
+
+
+
+

@@ -1,0 +1,65 @@
+# Q 1: Print the first 10 natural numbers using for loop.
+
+# Write a program to display numbers from -5 to -1.
+
+# squares of all the natural numbers between 1 and 10.
+
+# Q 2 Write a program that prints all the even numbers between 1 and 10.
+
+# Q 3: Python program to calculate the sum of all numbers from 1 to a given number.
+
+# Q.4: Python program to calculate the sum of all the odd numbers within the given range.
+
+# Q.5 Write a program that takes a number as input and generates its multiplication table (up to 10 digits).
+
+# Q.6: Python program to display numbers from a list using a for loop.
+
+# Q.7: Python program to count the total number of digits in a number.
+
+# Q.8: Python program to check if a given number is an Armstrong number ( 153, 370 , 371, 1634)
+
+# Q.9: Python program to count the number of even and odd numbers from a series of numbers.
+
+# Q.10 Write a program that prints the Fibonacci series of a number.
+
+# Q.11 write prime number programm to check a number is prime or not
+
+# Q.12 Write a program to calculate the factorial of any positive integer using loop
+
+
+# break , continue , pass
+
+# Q1.Write a Python program using a while loop that prints numbers from 1 to 10. Stop the loop when the number is 5.
+
+# Q2.Write a Python program using a for loop that iterates over a string "Elephant" and prints each letter. Stop the loop if the letter is "h".
+
+# Q3.Write a Python program using a while loop that prints numbers from 1 to 10. Skip the number 5.
+
+# Q4.Write a Python program using a for loop that iterates over a range from 1 to 10 and prints each number. Skip the number 7.
+
+# Q5.Write a Python program using a while loop that prints numbers from 1 to 10. Use the pass keyword when the number is 5.
+
+
+
+# nested loops
+# Q1.Write a Python program that prints all possible pairs of integers (i, j) such that 1 <= i <= 5 and 1 <= j <= 3. 
+# Each pair should be printed on a new line.
+# (1, 1)
+# (1, 2)
+# (1, 3)
+# (2, 1)
+# (2, 2)
+# (2, 3)
+# ...
+# (3, 3)
+
+
+# Q2.Write a Python program to print a pattern of numbers in a pyramid shape with 4 rows using nested for loops. 
+# Each row i should contain the number i, repeated i times.
+# 1
+# 22
+# 333
+# 4444
+
+# Q3.Write a program that takes two numbers as input and prints all the prime numbers lying between them.
+

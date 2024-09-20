@@ -1,0 +1,36 @@
+string ="$$$$$$$aaaaaaaaSikhar/////yyyyyyy"
+
+# make a programm for palindrome string
+name = " &&&    Malaya      Lam    //// "
+
+# Making above programm little bit more complex
+name = " &&&    Malaya   &&&&   lam    //// "
+
+
+practice string
+# Q1.Given the string s = "Python Programming", extract the substring "Programming".
+s = "Python Programming"
+
+# Q2.Convert the string s = "Data Science" to uppercase and count the number of characters in the resulting string.
+s = "Data Science"
+
+# Q3.Given the string s = " Hello, World! ", remove the leading and trailing whitespace, and then check if the resulting string starts with "Hello".
+s = " Hello, World! "
+
+# Q4.Replace all occurrences of the substring "is" with "was" in the string s = "This is a test. This is only a test.".
+s = "This is a test.This is only a test."
+
+
+Q5 count the vowel and consonent count without using len function
+s ="this is data science" 
+
+
+# # Q Write a Python script that processes an input string to transform it into a palindrome with the following conditions:
+
+# The output string must contain no spaces.
+# The output string must be entirely in uppercase.
+# The output string must have no punctuation marks.
+
+# string = "A man, a plan, a canal, Panama!"
+# output_as = "AMANAPLANACANALPANAMA"
+

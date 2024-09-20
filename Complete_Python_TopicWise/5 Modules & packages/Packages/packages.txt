@@ -1,0 +1,19 @@
+package 
+
+In python, a "packages" is a way to organize related module into a directory.
+
+__init__.py is a python file which make a difference between a package from a regular diretory or folder
+
+
+What __init__.py contains ?
+
+This file can be empty or can contain intialization code for the package
+
+
+Steps to create a python package :-
+1) create the directory structure
+2) define modules
+3) import modules in your code
+
+
+

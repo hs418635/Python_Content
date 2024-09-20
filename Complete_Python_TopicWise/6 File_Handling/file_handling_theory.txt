@@ -1,0 +1,33 @@
+what is file ?
+
+Files are named locations on disk to store information.
+They are used to store data permanently.
+Data is stored in non-volatile memory.
+we can retrieve data when required.
+Types of files :
+
+Text files --> stores data in the form of characters.It is used to store data and string.
+
+eg. text_file , Json_file
+
+Binary files ---> Stores data in the form of bytes(group of 8bits)
+
+eg. audio_file , Vedio_file, image_file , pdf_file.
+
+what is file handling ?
+File handling means :
+
+opening a file.
+Performing some operations on it.
+closing a file.
+
+File Handling Modes--> mode specifies the purpose of opening file (r,w,a,x,r+,w+,a+)
+
+1.text mode--> In this mode when you open the file , python treats its content as str type .
+
+When you get the data from a text mode file , python first decodes the raw bytes using either a platform dependent encoding or specified encoding
+
+2.binary mode --> In the binary mode python uses the data without any encoding because its content is treated as bytes . Eg. images , audios , vedios etc
+(rb,wb,ab,xb,rb+,wb+,ab+)
+
+

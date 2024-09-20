@@ -1,0 +1,45 @@
+
+1. Reading a File:
+   Write a Python program to read the content of a text file named `example.txt` and display it.
+
+2. Writing to a File:
+   Write a Python program to write "Hello, World!" to a new file named `hello.txt`.
+
+3. Appending to a File:
+   Write a Python program to append the line "This is an appended line." to the file `hello.txt`.
+
+4. Copying a File:
+   Write a Python program to copy the content of `example.txt` to a new file named `example_copy.txt`.
+
+5. Reading Specific Lines:
+   Write a Python program to read the first 5 lines of a file named `example.txt`.
+
+6. Counting Lines:
+   Write a Python program to count the number of lines in a file named `example.txt`.
+
+7. Counting Words:
+   Write a Python program to count the number of words in a file named `example.txt`.
+
+8. Counting Characters:
+   Write a Python program to count the number of characters in a file named `example.txt`.
+
+9. Removing Blank Lines:
+   Write a Python program to remove all blank lines from a file named `example.txt`.
+
+10. Reading a File in Reverse:
+    Write a Python program to read a file named `example.txt` in reverse order (line by line).
+
+11. Finding the Longest Word:
+    Write a Python program to find the longest word in a file named `example.txt`.
+
+12. Replacing a Word:
+    Write a Python program to replace the word "old" with "new" in a file named `example.txt`.
+
+13. Merging Two Files:
+    Write a Python program to merge the content of `file1.txt` and `file2.txt` into a new file named `merged.txt`.
+
+14. Reading a File Line by Line:
+    Write a Python program to read a file line by line and store each line in a list.
+
+15. Writing a List to a File:
+    Write a Python program to write a list of strings to a file named `list_output.txt`.

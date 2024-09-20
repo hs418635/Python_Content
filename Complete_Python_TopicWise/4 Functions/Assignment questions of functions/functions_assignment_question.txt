@@ -1,0 +1,119 @@
+Calculate the Factorial of a Number
+Question: Write a function that takes a positive integer and returns its factorial.
+
+Sum of Digits in a Number
+Question: Write a function that takes an integer and returns the sum of its digits.
+
+Reverse a String
+Question: Write a function that takes a string and returns the string reversed.
+
+Find the Maximum Number in a List
+Question: Write a function that takes a list of numbers and returns the maximum number.
+
+Count the Number of Vowels in a String
+Question: Write a function that takes a string and returns the count of vowels in the string.
+
+Check if a String is a Valid Email(use RE)
+Question: Write a function that takes a string and checks if it is a valid email address.
+
+Convert Celsius to Fahrenheit
+Question: Write a function that takes a temperature in Celsius and converts it to Fahrenheit.
+
+Find the Second Largest Number in a List
+Question: Write a function that takes a list of numbers and returns the second largest number.
+
+Check if a Year is a Leap Year
+Question: Write a function that takes a year and checks if it is a leap year.
+
+Calculate the GCD of Two Numbers
+Question: Write a function that takes two numbers and returns their Greatest Common Divisor (GCD).
+
+Convert a String to Title Case
+Question: Write a function that takes a string and converts it to title case.
+
+Check if Two Strings are Anagrams
+Question: Write a function that takes two strings and checks if they are anagrams of each other.
+
+Find the Fibonacci Number at a Given Position
+Question: Write a function that takes a position and returns the Fibonacci number at that position.
+
+Check if a Number is a Perfect Square
+Question: Write a function that takes a number and checks if it is a perfect square.
+
+Find the Sum of All Elements in a List
+Question: Write a function that takes a list of numbers and returns the sum of all elements.
+
+Merge Two Dictionaries
+Question: Write a function that takes two dictionaries and merges them into one.
+
+Count the Number of Words in a String
+Question: Write a function that takes a string and returns the count of words in the string.
+
+Find the Longest Word in a String
+Question: Write a function that takes a string and returns the longest word in the string.
+
+Calculate the Power of a Number
+Question: Write a function that takes two numbers, a base and an exponent, and returns the base raised to the power of the exponent.
+
+Find the Average of a List of Numbers
+Question: Write a function that takes a list of numbers and returns their average.
+
+LEGB Rule - Local Scope
+Question: Write a function demonstrating the local scope of a variable within a function. Define a variable inside the function and try to print it outside the function.
+
+LEGB Rule - Global and Built-in Scope
+Question: Write a function demonstrating the global and built-in scope. Define a variable globally and use the len built-in function within the function.
+
+Using *args to Accept Variable Number of Arguments
+Question: Write a function that takes a variable number of arguments using *args and returns their sum.
+
+Using **kwargs to Accept Keyword Arguments
+Question: Write a function that takes keyword arguments using **kwargs and returns a dictionary with the same keyword arguments.
+
+Combining *args and **kwargs
+Question: Write a function that accepts both *args and **kwargs, prints all positional arguments and keyword arguments.
+
+Using Lambda to Add Two Numbers
+Question: Write a lambda function that takes two numbers and returns their sum.
+
+Using Lambda to Extract the Last Element of a List
+Question: Write a lambda function that takes a list and returns its last element.
+
+Using Lambda with Map to Square Each Element in a List
+Question: Write a lambda function and use it with map to square each element in a list.
+
+Using Lambda to Find the Length of Each Word in a List of Words
+Question: Write a lambda function and use it with map to find the length of each word in a list of words.
+
+Using Lambda to Filter Words Starting with a Specific Letter
+Question: Write a lambda function and use it with filter to find all words in a list that start with a specific letter, e.g., 'a'.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+Modules in python --> A module is a file (.py) containing python definitions and statements.
+
+Adavntages :
+1) provide proper organization --> We can store the relativey same functions into one file. eg. math module
+2) code reusability --> We dont define functions again and again for same usage, instead we put them in module and can use that module multiple time just by importing them.
+3) Namespace management --> It is a container containg all the name of variables , functions , classes . eg pi=3.14 is constant in  math module , out of math module we can give any value to pi
+4) Encapsulation --> It is encapsulated means we dont actually know that how execution is happening.
+
+Types of modules :
+1) Built-in modules --> eg. os , sys , math , datetime etc
+
+2) Third party modules --> The modules which developed by python community and can be 
+			   installed using package managers like pip.
+			   eg. numpy , pandas , request , flask etc
+
+3) User defined modules --> These are custom modules created by user to organize their code
+                           into resuable component. It is a python file with (.py) that contains
+			   functions , classes , varibales. We can import them as module.

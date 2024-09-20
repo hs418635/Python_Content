@@ -1,0 +1,22 @@
+Data structures
+
+Data structures are the way of collecting and organizing data in such a way that it can easily stored , accessed and managed.
+
+Types of Data structures:
+
+1) Inbuilt Data strutures --> int , float , complex , string, List , Tuple , Set , Dictionary
+   1) Numeric data Types --> int , float , complex
+   2) Sequence Data types --> string , List , Tuple
+   3) Set Data Types --> Set
+   4) Mapping Data types --> Dictionary
+3) User defined data structures --> Arrays, Linked list , Stack , Queue , Graph , Tree
+
+Sequence Data Types
+1) strings --> They are Ordered collection of Character , Indexed , Immetuable
+2) List --> They are ordered collection of different Data Types elements , Indexed , Mutable
+3) Tuple --> They are also orderd collection of elements , Indexed , Immetuable , they are assinged in paranthesis
+
+Set Data Types:
+They Unordered collection of Unique elements , Unindexed , Immutable
+
+Mapping Data Types--> unordered collection of Key:Value Pair , Key are indexed and Values are Mutable

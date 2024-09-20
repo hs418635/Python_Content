@@ -1,0 +1,23 @@
+s=it is used for storing mutiple data
+
+s={1,2,3,3,8}--maunually
+set()--in-built
+properties
+unordered
+unindexed
+immutable
+duplication not allowed--(remove duplicate values)
+random varible
+
+use:-
+mathemetical operation--union() ,union()[|] ,intersection[&, intersection()],diffence,symmetric diffrence
+mutable--del,add
+s={}
+type(s)
+s={"Rohit",24}
+s
+s[0]#error--not accessed by index
+remove(90)--value not given error
+discard()--value not mention not error
+
+both will remove the value

@@ -1,0 +1,10 @@
+Take a input from user and print.
+
+Take a Password from user and check wether it is in follwoing format or not
+expected output="python1991"
+
+Take Mobile no from user and check is it correct or not
+
+Take an input from user if it is in upper convert to lower ,if it is in lower convert to upper case.
+
+Take Input From User And Check the min value and max value in that and add the minimum and max value.
