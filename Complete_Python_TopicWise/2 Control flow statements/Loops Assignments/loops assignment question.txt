@@ -1,0 +1,24 @@
+Loops assignment
+
+Q) write a programm to print sum of square from 1 to n.
+
+Q) write a program to print only even numbers between 1 to n.
+
+Q) write a program to find sum of square of digits of a given number
+   write a dynamic programm for any number.
+
+Q) Python program to find the factorial of a given number.
+
+Q) Python program that accepts a string and calculates the number of digits and letters.
+
+Q) Python program to print a multiplication table of a given number
+
+Q) Python program to count the total number of digits in a number.
+
+Q) Python program to check if a given number is an Armstrong number.
+
+Q) Python program to count the number of even and odd numbers from a series of numbers.
+
+Q) Python program to get the Fibonacci series between 0 to 50.
+
+

@@ -1,0 +1,75 @@
+P
+# Question: Create a function greet(first_name, last_name) that takes a first name and a last name as positional arguments 
+# and prints a greeting message. Call the function with the names "John" and "Doe".
+
+kw
+# Question: Create a function calculate_area(length, width) that calculates the area of a rectangle. Call the function using keyword arguments 
+# with length=5 and width=3.
+
+# Question: Write a function describe_pet(pet_name, pet_type) that prints a message describing a pet. 
+# Call the function using keyword arguments with pet_name="Hind ka sitara" and pet_type="german shepherd".
+
+dflt
+# Question: Define a function power(base, exponent=2) that calculates the power of a number with a default exponent of 2. 
+# Call the function with the base 4 and without specifying the exponent.
+
+# Question: Write a function introduce(name, age=25) that prints a message introducing a person, with a default age of 25. 
+# Call the function with the name "Alice".
+
+vl
+# Question: Define a function sum_all(*numbers) that sums an arbitrary number of arguments. 
+# Call the function with the numbers 1, 2, 3, 4, and 5.
+
+# Question: Create a function list_fruits(*fruits) that takes an arbitrary number of fruit names and prints them. 
+# Call the function with the fruit names "apple", "banana", and "cherry".
+
+args
+# Question: Define a function multiply_all(*args) that multiplies an arbitrary number of arguments together. 
+# Call the function with the numbers 2, 3, and 4.
+
+kwargs
+# Question: Create a function print_kwargs(**kwargs) that prints each key-value pair. Call the function with the keyword arguments 
+# name="Bob", age=27, and city="Boston".
+
+# Question: Write a function build_profile(**kwargs) that builds and prints a profile from keyword arguments.
+# Call the function with the keyword arguments first_name="John", last_name="Doe", and profession="Engineer".
+
+
+L: Local - Names assigned in any way within a function (def or lambda), and not declared global in that function.
+
+. E: Enclosing function locals - Names in the local scope of any and all enclosing functions (def or lambda), from inner to outer.
+
+⚫G: Global (module) - Names assigned at the top-level of a module file, or declared global in a def within the file.
+
+• B: Built-in (Python) - Names preassigned in the built-in names module: open, range, SyntaxError,...
+
+lcl
+
+lmbda
+# Q.return the length of the string
+
+# Q.convert the list of integers to their corresponding square values
+num = [1,2,3,4,5,6,7,8,9,10]
+
+# Q.filter out even numbers from a list
+num = [1,2,3,4,5,6,7,8,9,10]
+
+# Q.sort a list of string based on their alphabetical characters and  length
+fruits = ['app','bana','mangohhhh','cherry']
+
+# sort--> pairs = [(1, 2), (8, 1), (5, 0)]
+
+# Given a list of dictionaries people, sort the list by the age of each person using a lambda function 
+# with the sorted() function.
+people = [
+    {'name':'virat','age':25,'occupation':'batter'},
+    {'name':'rohit','age':65,'occupation':'batter'},
+    {'name':'shami','age':45,'occupation':'bowler'},
+]
+
+recurs
+# sum of n natural numbers.
+eg. for 5 --> 5+4+3+2+1
+
+# Power of a Number
+2**3 --> 8

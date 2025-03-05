@@ -1,0 +1,38 @@
+Row Operations:
+
+Add a single row to the DataFrame.
+Add multiple rows to the DataFrame.
+Update a single value in the DataFrame.
+Update multiple values in the DataFrame.
+Filtering Operations:
+
+Use boolean indexing to filter the data.
+Filter the DataFrame using multiple conditions.
+Filter the DataFrame using loc and iloc.
+Filter the DataFrame using filter() and regex.
+Sorting:
+
+Sort the data in ascending order.
+Sort the data in descending order.
+Finding Largest and Smallest Values:
+
+Find the n largest values from a specific column.
+Find the n smallest values from a specific column.
+Aggregate Functions:
+
+Perform aggregate functions (sum, mean, min, max, etc.) on the DataFrame.
+Group By:
+
+Perform group by operations on the DataFrame.
+Handling Missing Values:
+
+Drop a row or column with null values.
+Fill null values with zero.
+Fill null values with the mean.
+Data Type Conversion:
+
+Convert data types of specific columns.
+Saving DataFrame:
+
+Save the DataFrame in CSV format.
+Save the DataFrame in Excel format.

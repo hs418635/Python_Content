@@ -1,0 +1,31 @@
+Classes
+Question 1
+Define a class Person with attributes name and age. How would you create an instance of this class and print the attributes?
+
+Question 2
+Create a class Rectangle with attributes length and width. Add a method area to calculate the area of the rectangle.
+
+
+Methods
+Question 1
+Write a class Circle with a method circumference that returns the circumference of the circle. Use the value of π as 3.14.
+
+
+Attributes
+Question 1
+Create a class Car with attributes make, model, and year. Instantiate an object of the class and print its attributes.
+Hint:- attribute --> def __init__(self,mdake,model,year)
+
+
+Object
+Question 1
+Define a class Book with attributes title, author, and pages. Create an object of this class and print its attributes.
+
+
+Constructor
+Question 1
+Write a class Laptop with attributes brand, model, and price. Use a constructor to initialize these attributes and print them.
+
+Question 2
+Create a class Animal with a constructor that initializes the attributes name and species. Instantiate an object of the class and print its attributes.
+

@@ -1,0 +1,39 @@
+1. Create a 1D NumPy array containing the numbers 1 to 10.
+
+2. Create a 2D array with shape (3, 4) filled with zeros.
+
+3. Create a 3x3 identity matrix.
+
+4. Create a 1D array of 10 random numbers and find the maximum and minimum values.
+
+5. Create a 2D array and find the sum of all elements along the rows and columns.
+
+6. Generate a 5x5 array of random integers between 10 and 50.
+
+7. Create a random array of shape (3, 4) and normalize it (i.e., scale the values so that the mean is 0 and the standard deviation is 1).
+
+8. Create a 1D array of 12 elements and reshape it into a 3x4 matrix.
+
+9. Flatten a 2D array into a 1D array.
+
+10. Create a 3x3 matrix and print the element at row 2, column 3.
+
+11. Create a 3D array of shape (2, 3, 4) and access the element at position (1, 2, 3).
+
+12. Slice the 2D array to get the first two rows and the last two columns.
+
+13. Create two arrays, one with shape (3, 1) and the other with shape (1, 4). Use broadcasting to add them.
+
+14. Multiply a 2D array by a 1D array using broadcasting.
+
+15. Create a 4x4 array of random numbers and replace all values greater than 0.5 with 1.
+
+16. Create a 5x5 identity matrix and add a 5x5 matrix of ones to it.
+
+17. Create a 3D array of shape (2, 3, 4) and reverse the order of elements along the third axis.
+
+18. Create a 2D array of shape (4, 5) and calculate the mean of each row.
+
+19. Create an array of 20 random integers between 1 and 100. Sort the array and find the median value.
+
+20. Create two 1D arrays and use broadcasting to compute the outer product.

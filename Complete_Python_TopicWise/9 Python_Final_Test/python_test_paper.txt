@@ -1,0 +1,81 @@
+Python Test Paper
+
+Time Limit: 1 hour 30 minutes
+
+Instructions:
+- Answer all questions.
+- Write your code neatly and clearly.
+- Ensure you read each question carefully before attempting to answer.
+
+---
+
+Section A: Theory Questions
+
+1. Operators
+   - What are operators in Python? List and explain different types of operators with examples.
+   
+2. Conditional Statements
+   - Explain the use of if, elif, and else statements in Python with an example.
+
+3. Loops
+   - Differentiate between for loop and while loop in Python. Provide an example for each.
+
+4. Functions
+   - What are functions in Python? Explain the difference between built-in functions and user-defined functions with examples.
+
+5. Error and Exception Handling
+   - What is the purpose of error and exception handling in Python? Explain the use of try, except, finally, and raise with examples.
+
+6. Object-Oriented Programming
+   - What are the basic principles of Object-Oriented Programming (OOP)? Explain each principle briefly.
+
+---
+
+Section B: Coding Questions
+
+1. Operators
+   - Write a Python program to swap two numbers without using a temporary variable.
+
+2. Conditional Statements
+   - Write a Python program that takes an integer input from the user and prints whether it is even or odd.
+
+3. While Loop
+   - Write a Python program to print the first 10 natural numbers using a while loop.
+
+4. For Loop
+   - Write a Python program to print the multiplication table of a given number using a for loop.
+
+5. Functions
+   - Write a Python function that takes two numbers as arguments and returns their sum.
+
+6. args and kwargs
+   - Write a Python function that accepts any number of positional and keyword arguments and prints them.
+
+7. Global and Local Scope
+   - Write a Python program that demonstrates the difference between global and local variables.
+
+8. Error and Exception Handling
+   - Write a Python program that handles the ZeroDivisionError exception.
+
+9. Object-Oriented Programming (OOP)
+   - Define a class Person with attributes name and age. Create an instance of the class and print the attributes.
+
+---
+
+Section C: Practical Implementation
+
+1. Conditional Statements and Loops
+   - Write a Python program that prints all the prime numbers between 1 and 50.
+
+2. Functions and Scope
+   - Write a Python function to calculate the factorial of a number. Demonstrate the use of both global and local variables within the function.
+
+3. Error and Exception Handling with Custom Exceptions
+   - Write a Python program that defines a custom exception NegativeNumberError. The program should raise this exception if the user inputs a negative number when asked to enter a positive integer.
+
+4. Object-Oriented Programming (OOP)
+   - Define a class Rectangle with attributes length and width. Include methods to calculate the area and perimeter of the rectangle. Create an instance of the class and display the area and perimeter.
+
+---
+
+End of Paper

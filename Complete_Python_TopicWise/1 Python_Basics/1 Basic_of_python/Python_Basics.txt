@@ -1,0 +1,127 @@
+1.why people use python--
+
+1.software quality--oops
+2.developer productivity--less to type,less to debug,maintain
+3.program portability--can run to different platefrom
+4.libraries--huge no of libraries--can integrated--ai,ml,ds,iot
+5.easy to learn
+
+2.who use python
+google--web search system
+you tube--video sharing purposes
+dropbox--space/storage/cloud
+raspberrypi--projects
+netflix-
+intel,cisco,hp,ibm--
+
+
+3.Application--
+1.software development
+2.system programming
+3.gui
+4.internet scripting(clint & sever)
+5.mysql
+6.nlp
+7.ai/ml/dl
+8.image processing
+9.games
+10.controlling of robot
+
+python--it is an object oriented interpreted programming language.
+1985-1990
+Guido van Russom---comedy series character name monty python--python
+
+features:-
+	simple
+	open source
+	high level
+	easy to learn
+	huge libraries
+	platefrom dependent
+
+
+1.it is multi paradigm programming language because it can be used with the web interprise & web
+services, mobile, application ,big data/cloud.
+
+2.python makes the development and debugging fast since there is no complilation process.
+
+
+shell mode--command prompt--run--but can't save(black window)
+script mode--editors--write+run+save
+
+
+always extension will be .py
+
+
+backgroud process-->source code>>interpreation>>execute
+
+modules--block of codes--in others language it is header files
+ex--import math
+math.sqrt(81)
+sqare
+ln
+exp
+sin
+cos
+
+
+1st--source code>complied>complier>complied code with extension .pyc>>interpreter>excute>o/p
+ line by line
+
+if it is second time and i didn't make any changes in souce code then source>>interpreter>>op
+
+
+#memory allocation
+a=10--variable defination--address-with id method
+ex--10
+id(10)
+a=10
+id(a)
+
+#python object types--we don't refer it as datatypes.
+
+programs are composed of modules.
+modules contain statements
+statements contain expressions
+expression creates and process object.
+
+
+builtin types--
+numbers
+strings
+dictionary
+list
+tuple
+set
+boolean
+none
+
+program unit type--
+functions
+modules
+classes
+objects
+
+
+ 
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

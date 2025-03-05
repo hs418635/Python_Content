@@ -1,0 +1,23 @@
+Daily Tasks : 
+1. Prepare a list of popular python modules , libraries & frameworks for different domains
+2. Research on the following min,max,mean , median, mode , deviation , variance , correlation
+3. Uses cases of Numpy , Pandas & Matplotlib
+
+Practice Questions:
+- Create a 4x4 zero array.
+- Create a 2x3 ones array.
+- Create a 3x3 full array filled with the value 2.
+- Create a 4x4 identify matrix.
+- Create a linear series from 0 to 20 with a step of 4.
+
+Interview Questions:
+- What is the difference between np.zeros() and np.ones()?
+- How do you create a 3x3 identity matrix using NumPy?
+- What is the purpose of the np.full() function?
+- How do you create a linear series with a specified start, stop, and step values?
+- What is the difference between a zero array and a full array?
+- Can you create a NumPy array with random values from a normal distribution?
+- How do you create a 2x2 ones array using NumPy?
+- What is the purpose of the np.eye() function?
+- Can you create a NumPy array with a specified shape and fill value?
+- How do you create a distribution array with random values from a uniform distribution?

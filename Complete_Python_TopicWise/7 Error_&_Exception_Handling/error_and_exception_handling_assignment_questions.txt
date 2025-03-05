@@ -1,0 +1,29 @@
+1.Write a function safe_division(a, b) that divides two numbers and handles ZeroDivisionError. If b is zero, return None.
+
+2.Create a function read_file_contents(filename) that reads and prints the contents of a file. Handle FileNotFoundError and print a message if the file doesn't exist.
+
+3.Define a function calculate_area(length, width) that calculates the area of a rectangle. Use assert to ensure both length and width are positive.
+
+4.Write a program that asks the user to enter two integers and performs division. Handle ValueError if the inputs are not valid integers and ZeroDivisionError if the denominator is zero.
+
+5.Create a function process_data(data) that processes a list of numbers. Use assert to ensure the input is a list, and raise a TypeError if it's not.
+
+6.Create a function calculate_square_root(x) that computes the square root of a number x. Raise an AssertionError if x is negative.
+
+7.Define a function safe_int_input(prompt) that prompts the user to enter an integer. Handle ValueError if the input is not a valid integer.
+
+8.Write a function list_element_division(lst, index1, index2) that takes a list and two indices. Divide the elements at the given indices and handle IndexError if the indices are out of bounds.
+
+9.Create a function parse_number(s) that attempts to convert a string s to an integer. Handle ValueError and TypeError exceptions.
+
+10.Write a function get_value(d, key) that retrieves a value from dictionary d for a given key. Handle KeyError if the key doesn't exist.
+
+11.Define a function file_copy(src, dest) that copies contents from file src to file dest. Handle FileNotFoundError and any other IO-related exceptions.
+
+12.Write a function calculate_average(nums) that calculates the average of a list of numbers. Handle ZeroDivisionError if the list is empty.
+
+13.Create a function nested_dictionary_access(d, key1, key2) that retrieves a value from a nested dictionary d using two keys. Handle KeyError for any missing keys.
+
+14.Define a function process_data_file(filename) that processes a data file line by line. Use finally to ensure the file is always closed.
+
+15.Define a function calculate_age(birth_year) that calculates age from the birth year. Raise a ValueError if the birth year is in the future.

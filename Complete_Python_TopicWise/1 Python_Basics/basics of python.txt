@@ -1,0 +1,88 @@
+what is python ?
+python is interpreted, object oriented , Dyanamically typed and highlevel programming langauage.
+
+programming language  -- medium of communication between human and machine.
+Highlevel --> the language which closer to human language.
+Dynamically typed 
+java --> int a = 10 ;
+python --> a = 10 --> print(type) ---> int
+object oriented --> for security purpose
+interpreter ---> reads code line by line.
+#######################################################################################
+developed by guido vann russon  in 1985 - 1990 , launched in 1991
+
+why python named as python ?
+on the basis of comedy series character monty python , it was a hobby project
+#######################################################################################
+types of python 
+python2 --> oldest version 
+python3 --> newest version
+
+The difference between python2 and python3 is their syntax 
+
+eg. in python2 --> print"a+b"
+eg. in python3 --> print(a+b)
+#######################################################################################
+why people uses python ?
+software quality --> oops
+programm portability --> platform independent
+developer productivity
+huge amount of libraries--> language , hardware  , technology
+easy to understand
+#######################################################################################
+# who uses python/ applicaton
+google --> web search system 
+youtube --> vedio recommendation system
+dropbox --> space or storage sharing system
+ibm/cisco/hp/intel --> software testing
+facebook/social medio --> use recommendation system
+#######################################################################################
+converters : source code to machine code
+
+1) compiler--> whole
+2) interpreter--> line by line
+3) assembler--> works over register
+#######################################################################################
+
+types of languages :
+high level --> python , java , javascript , used for user interaction
+low level --> binary ( 0 or 1 )
+assembely ---> embedded c
+#######################################################################################
+Ascii --> std of conversion 
+
+a--> ascii-->binary
+A--> 65 --> 10000001
+this is done by compiler
+
+python directly convertes in binary format
+A-->10000001
+#######################################################################################
+#essentials to make a programm.
+1.identifiers --> name given by use to variable , class , function
+a = 10
+a = 20
+four rules for identifies
+1.always starts with alphabets
+2.can contain number but can not be started from number
+3.keywords can not be identifier
+4.except _ no other special symbol is allowed
+
+2.comments--> to hide unecessary statements
+single line comment , multi line comment
+
+3.keywords--> if , import , for , def , in , not , there are 32 keywords in python
+
+4.indentation--> 1Tab space
+eg. if a>23:
+print("hi") ---> will throw indentation error
+
+5.operators
+arithmatic +, - , * , / , ** (exponenetial) , % (modulus), //(floor division)
+relational or comparison >,<,>=,<=,==,!=
+logical ( and , or ) 
+assignment/compound operators ( = , +=, -=, *=, /= , //= etc.)
+identity operators ( is , not is)
+membership operators ( in , not in )
+
+

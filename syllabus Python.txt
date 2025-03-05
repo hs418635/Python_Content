@@ -1,0 +1,16 @@
+1  Introduction to Python: Environment setup, Basic I/O.
+2  Conditional Branching control statements: If-Else, elif.
+3  Conditional looping control statements: while, for.
+4  Functions-Function Arguments-Default, Keyword, Arbitrary
+5  Functions-Recursion , Lambda function
+6  Data Structures-List, Tuple
+7  Data Structures -Dictionary, Set in details
+8  Modules and Package-User program as modules and Packages.
+9  Files-Different types of files-File operation.
+10 Errors and Exceptions Handling-Errors. Assert, Try, except, Finally
+11 Exceptions Try, Finally, User defined exception.
+12 Object Oriented Programming-Class, Object, Inheritance, and Polymorphism.
+13 Thread-Multithread.
+14 Graphical User Interface-Textbox, Listbox, Option Button, Menu, Canvas.
+15 Database Connectivity-Mysql, Create table, Insert table, View the table.
+16 Networking-Client and server program.

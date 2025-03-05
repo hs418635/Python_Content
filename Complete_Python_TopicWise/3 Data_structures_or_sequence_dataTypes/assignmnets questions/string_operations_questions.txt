@@ -1,0 +1,44 @@
+Question 1: Given the string s = "Hello, World!", what is the character at index 7?
+
+Question 2: Given the string s = "Hello, World!", what is the character at index -4?
+
+Question 3: Given the string s = "Hello, World!", what is the substring from index 2 to 8?
+
+Question 4: Given the string s = "Hello, World!", what is the substring from the start to index 5?
+
+Question 5: Concatenate the strings s1 = "Hello" and s2 = "World" with a space in between.
+
+Question 6: Concatenate the strings s1 = "Good" and s2 = "Morning" with a comma and space in between.
+
+Question 7: Given the string s = "hello", convert it to uppercase.
+
+Question 8: Given the string s = "HELLO", convert it to lowercase.
+
+Question 9: Given the string s = "hello world", capitalize the first letter of each word.
+
+Question 10: Given the string s = " Hello, World! ", remove the leading and trailing whitespace.
+
+Question 11: Given the string s = "!!!Hello, World!!!", remove the leading and trailing exclamation marks.
+
+Question 12: Given the string s = "Hello, World, How, Are, You", split the string by commas.
+
+Question 13: Given the string s = "apple-orange-banana", split the string by hyphens.
+
+Question 14: Print each character of the string s = "Hello" on a new line.
+
+Question 15: Count the number of vowels in the string s = "Hello, World!".
+
+Question 16: Given a string s = "hello world", reverse the string without using any built-in functions or slicing.
+
+Question 17: Given a string s = "apple", count the number of occurrences of each character without using any built-in functions.
+
+Question 18: Given a string s = "abcssss123xyz", separate the characters into two strings, one containing only letters and the other containing only digits, without using any built-in functions.
+
+Question 19: Replace all occurrences of the substring "is" with "was" in the string s = "This is a test. This is only a test.".
+
+Question 20: Write a Python script that processes an input string to transform it into a palindrome with the following conditions:
+# The output string must contain no spaces.
+# The output string must be entirely in uppercase.
+# The output string must have no punctuation marks.
+# string = "A man, a plan, a canal, Panama!"
+# output_as = "AMANAPLANACANALPANAMA"

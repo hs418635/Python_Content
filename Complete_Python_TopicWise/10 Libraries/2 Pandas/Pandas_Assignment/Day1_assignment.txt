@@ -1,0 +1,23 @@
+1.Creating a DataFrame:
+Create a Pandas DataFrame with three columns and give names to these columns.
+
+2.Renaming Columns:
+Rename the columns of the DataFrame created in question 1.
+
+3.Adding a Single Column:
+Add a single column to the DataFrame created in question 1.
+
+4.Adding Multiple Columns:
+Add three more columns to the DataFrame created in question 1.
+
+5.Shuffling Columns:
+Shuffle the order of the columns in the DataFrame created in question 1.
+
+6.Merging DataFrames:
+Create another DataFrame and merge it with the DataFrame created in question 1.
+
+7.Setting a Column as Index:
+Make one of the columns in the merged DataFrame the index.
+
+8.Resetting the Index:
+Reset the index of the merged DataFrame to the default integer index.
